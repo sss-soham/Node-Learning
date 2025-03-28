@@ -9,10 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "node learning",
   "dependencies": {
-    "express": "^4.21.2",
-    "nodemon": "^3.1.9"
-  },
-  "devDependencies": {},
-  "description": "node learning"
+    "chalk": "^5.4.1",
+    "express": "5.0.1"
+  }
 }
